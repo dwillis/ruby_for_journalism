@@ -1,5 +1,5 @@
 ## Developing in the Newsroom
 
-#```ruby
+```ruby
 ['Accuracy', 'Speed', 'Code Quality'].first(2)
 ```
