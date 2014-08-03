@@ -17,6 +17,9 @@
 * [Breaking news](http://projects.nytimes.com/clinton-schedules)
 * [Big](https://projects.propublica.org/treatment/) [projects](http://projects.nytimes.com/toxic-waters/polluters/pennsylvania)
 * [Analysis for Reporting](https://github.com/NYTimes/Fech)
+* [APIs](http://developer.nytimes.com/docs)
+
+![Campaign Finance API](filings_api.png)
 
 #### Where We Do It
 
