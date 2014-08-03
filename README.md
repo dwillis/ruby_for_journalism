@@ -1,19 +1,22 @@
 # Ruby for Journalism
-## Steel City Ruby 2014
-### Derek Willis, The New York Times
-
-#### Who We Are
+### Steel City Ruby 2014
+#### Derek Willis, The New York Times
 
 ![NYT newsroom](nyt_newsroom.jpg)
+
+#### Who We Are
 
 * Journalists
 * Wide range of skills/jobs
 
 #### What We Do
 
+![Congress Admin](congress_admin.png)
+
 * Events ([elections](http://elections.nytimes.com/2012/results/president/big-board), [Oscars](http://oscars.nytimes.com/2014/ballot/9kca0m1j), [Olympics](http://sochi2014.nytimes.com/results))
-* [Breaking](http://projects.nytimes.com/clinton-schedules) [news](https://github.com/NYTimes/Fech)
+* [Breaking news](http://projects.nytimes.com/clinton-schedules)
 * [Big](https://projects.propublica.org/treatment/) [projects](http://projects.nytimes.com/toxic-waters/polluters/pennsylvania)
+* [Analysis for Reporting](https://github.com/NYTimes/Fech)
 
 #### Where We Do It
 
