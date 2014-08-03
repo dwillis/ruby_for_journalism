@@ -16,7 +16,7 @@
 * Events ([elections](http://elections.nytimes.com/2012/results/president/big-board), [Oscars](http://oscars.nytimes.com/2014/ballot/9kca0m1j), [Olympics](http://sochi2014.nytimes.com/results))
 * [Breaking news](http://projects.nytimes.com/clinton-schedules)
 * [Big](https://projects.propublica.org/treatment/) [projects](http://projects.nytimes.com/toxic-waters/polluters/pennsylvania)
-* [Analysis for Reporting](https://github.com/NYTimes/Fech)
+* [Tools](https://github.com/TheUpshot/statement) for [Reporting](https://github.com/NYTimes/Fech)
 * [APIs](http://developer.nytimes.com/docs)
 
 ![Campaign Finance API](filings_api.png)
@@ -39,7 +39,7 @@
 
 #### What You Can Do
 
-* Contribute code
-* [Learn more about](http://www.ire.org/nicar/) [what we do](http://forjournalism.com/)
+* [Contribute code](http://code.minnpost.com/car-code/)
+* [Learn more about](http://www.ire.org/nicar/) [what we do](http://www.propublica.org/nerds)
 * Mozilla fellowships ([deadline Aug. 16!](http://opennews.org/fellowships/apply.html))
 * Ditch your current job
