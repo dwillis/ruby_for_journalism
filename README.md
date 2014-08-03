@@ -41,5 +41,5 @@
 
 * [Contribute code](http://code.minnpost.com/car-code/)
 * [Learn more about](http://www.ire.org/nicar/) [what we do](http://www.propublica.org/nerds)
-* Mozilla fellowships ([deadline Aug. 16!](http://opennews.org/fellowships/apply.html))
-* Ditch your current job
+* Mozilla fellowships ([deadline Aug. 16!](http://opennews.org/fellowships/apply.html)) or [ProPublica's P5](http://www.propublica.org/about/p5-project)
+* Make the news better
