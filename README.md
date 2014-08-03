@@ -11,11 +11,11 @@
 
 	* Events ([elections](http://elections.nytimes.com/2014/results/primaries/live), [Oscars](http://oscars.nytimes.com/2014/ballot/9kca0m1j), [Olympics](http://sochi2014.nytimes.com/results))
 	* [Breaking news](http://projects.nytimes.com/clinton-schedules)
-	* [Big](https://projects.propublica.org/nonprofits/) [projects](http://projects.nytimes.com/toxic-waters/polluters/pennsylvania)
+	* [Big](https://projects.propublica.org/treatment/) [projects](http://projects.nytimes.com/toxic-waters/polluters/pennsylvania)
 
 3. Where We Do It
 
-	* In the newsroom, with ridiculous deadlines/circumstances
+	* In the newsroom, with ridiculous [deadlines/circumstances](pick_two.md)
 	* [In](https://github.com/documentcloud) [the](https://github.com/propublica) [open](https://github.com/NYTimes)
 
 4. Why We Do It
