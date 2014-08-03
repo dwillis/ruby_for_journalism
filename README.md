@@ -2,7 +2,7 @@
 ### Steel City Ruby 2014
 #### Derek Willis, The New York Times
 
-![NYT newsroom](nyt_newsroom.jpg)
+![NYT newsroom](https://raw.githubusercontent.com/dwillis/ruby_for_journalism/master/nyt_newsroom.jpg)
 
 #### Who We Are
 
@@ -11,7 +11,7 @@
 
 #### What We Do
 
-![Congress Admin](congress_admin.png)
+![Congress Admin](https://raw.githubusercontent.com/dwillis/ruby_for_journalism/master/congress_admin.png)
 
 * Events ([elections](http://elections.nytimes.com/2012/results/president/big-board), [Oscars](http://oscars.nytimes.com/2014/ballot/9kca0m1j), [Olympics](http://sochi2014.nytimes.com/results))
 * [Breaking news](http://projects.nytimes.com/clinton-schedules)
@@ -19,7 +19,7 @@
 * [Tools](https://github.com/TheUpshot/statement) for [Reporting](https://github.com/NYTimes/Fech)
 * [APIs](http://developer.nytimes.com/docs)
 
-![Campaign Finance API](filings_api.png)
+![Campaign Finance API](https://raw.githubusercontent.com/dwillis/ruby_for_journalism/master/filings_api.png)
 
 #### Where We Do It
 
@@ -32,7 +32,7 @@
 
 #### Why We Do It
 
-![Ryan Mark](ryan_mark.png)
+![Ryan Mark](https://raw.githubusercontent.com/dwillis/ruby_for_journalism/master/ryan_mark.png)
 
 * [Interesting](http://laurenrabaino.com/2014/07/why-develop-in-the-newsroom/) and constantly-changing problems
 * [It matters to people](http://ryantmark.tumblr.com/post/92156514574/why-i-build-for-news)
